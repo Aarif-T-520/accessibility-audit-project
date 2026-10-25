@@ -1,0 +1,6 @@
+issue_id,page_or_component,wcag_reference,evidence,severity,user_impact,recommended_fix,owner,status
+WEB-001,Amazon Home page,1.1.1 Non-text Content,amazon-audit.png,Medium,main-thread work slow down the page performance,Minimize main-thread work,Student,Open
+WEB-002,Amazon Home page,,amazon-audit.png,Medium,Largest Contentful Paint element takes too much time to load,Optimize and improver Largest Contentful Paint,Student,Open
+WEB-003,Amazon Home page,,amazon-audit.png,high,Reduce JavaScript execution Time Affects website speed,Reduse JavaScript Execution Time,Student,Open
+WEB-004,Amazon Home page,,amazon-audit.png,high,Reduce The impact of third-party code blocks the main thread ,Limit third-party code impact,Student,Open
+WEB-005,Amazon Home page,,amazon-audit.png,Medium,Avoid an excessive DOM size makes element too large,Avoid an excessive DOM size,Student,Open
